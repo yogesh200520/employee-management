@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+table th {
+    white-space: nowrap;
+}
+
+.footer {
+    margin-top: 40px;
+    padding: 15px 0;
+    text-align: center;
+    color: #888;
+    font-size: 0.9rem;
+}
